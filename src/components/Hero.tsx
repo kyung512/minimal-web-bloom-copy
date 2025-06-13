@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div className="space-y-8 animate-fade-in">
             <h1 className="text-4xl md:text-6xl font-bold text-exceed-navy leading-tight">
-              Transform Your Student's Writing, Reading, and Listening Skills
+              Transform Your Student's Writing, Reading, and Listening Skills !!!
             </h1>
             <p className="text-xl text-gray-700">
               Professional editing, personalized feedback, and effective coaching for students in grades 6-12.
